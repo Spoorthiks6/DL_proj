@@ -1,0 +1,11 @@
+{
+  "mode": "contrastive",
+  "threshold": 0.4955413706768724,
+  "val_pair_acc": 0.9507,
+  "test_5way": 0.921,
+  "test_20way": 0.819,
+  "pair_acc": 0.9201,
+  "far": 0.0881287726358149,
+  "frr": 0.07176938369781312,
+  "trials": 1000
+}
